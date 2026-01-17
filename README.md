@@ -1,1 +1,2 @@
 # Video-Short-Boundary-Detection
+Video Shot Boundary Detection System: Engineered a hybrid video analysis pipeline in Python leveraging OpenCV and NumPy for frame processing, CNN-based temporal feature extraction, and the Marine Predators Algorithm for adaptive threshold optimization via Otsu’s method. Implemented continuity matrix analysis among candidate transition frames to distinguish between abrupt cuts and gradual transitions, improving segmentation accuracy, robustness, and overall system performance across varying video scenarios.
